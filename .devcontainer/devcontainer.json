@@ -29,7 +29,10 @@
         "yzhang.markdown-all-in-one",
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-spanish",
-        "ritwickdey.LiveServer"
+        "AnbuselvanRocky.bootstrap5-vscode",
+        "fractalbrew.backticks",
+        "ms-vscode.live-server",
+        "vitest.explorer"
       ]
     }
   }
